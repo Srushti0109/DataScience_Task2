@@ -7,8 +7,7 @@ A Machine Learning project developed to predict student marks based on study hou
 
 ## 🛠️ Model Methodology
 - **Algorithm:** Linear Regression (Ordinary Least Squares).
-- **Dataset:** 15 samples of Hours vs. Marks.
-- **Split:** 80% Training, 20% Testing.
+- **Data Split:** 80% Training, 20% Testing to ensure the model generalizes well.
 - **Evaluation:** High R² score indicating excellent predictive accuracy.
 
 ## 🚀 Sample Output
