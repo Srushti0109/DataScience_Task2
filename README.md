@@ -14,7 +14,10 @@ R-squared (R2
 3. Visual Analysis
 Shutterstock
 Explore
-Referencing image_92abba.png:
+### 📊 Model Visualization
+![Student Marks Prediction Plot](image_92abba.png)
+
+*The blue dots represent actual student data, and the red line shows our model's predicted trend.*
 
 The Blue Scatter Points represent the actual data distribution.
 The Red Regression Line represents the model's prediction path.
