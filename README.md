@@ -4,7 +4,8 @@
 This is a Machine Learning mini-project developed to predict student marks based on study hours using **Linear Regression**. This project follows a standard data science pipeline: Data Creation → Preprocessing → Training → Evaluation → Prediction.
 
 ## 📊 Model Visualization
-![Regression Plot](image_92abba.png)
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/97dcdb65-c30c-47e8-acdb-c835f5d17e57" />
+
 
 *The plot illustrates a strong positive linear correlation between study hours and academic performance. The red line represents the "Line of Best Fit" calculated by the model.*
 
