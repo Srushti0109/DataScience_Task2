@@ -2,7 +2,7 @@
 A Machine Learning project developed to predict student marks based on study hours using Linear Regression.
 
 ## 📊 Model Visualization
-![Student Marks Prediction Plot](image_92abba.png)
+![Student Marks Prediction Plot]<img src="marks_prediction.png" width="600">
 *The plot illustrates a strong positive linear correlation between study hours and academic performance.*
 
 ## 🛠️ Model Methodology
