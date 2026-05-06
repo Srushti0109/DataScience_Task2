@@ -4,9 +4,10 @@
 This is a Machine Learning mini-project developed to predict student marks based on study hours using **Linear Regression**. This project follows a standard data science pipeline: Data Creation → Preprocessing → Training → Evaluation → Prediction.
 
 ## 📊 Model Visualization
+<img width="3504" height="2426" alt="image" src="https://github.com/user-attachments/assets/98d07213-1cfb-4a5c-90ad-2bbb0a9c9c00" />
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/97dcdb65-c30c-47e8-acdb-c835f5d17e57" />
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a9ff629c-82e4-4c28-9fed-bb175f8d9439" />
-<img width="3504" height="2426" alt="image" src="https://github.com/user-attachments/assets/98d07213-1cfb-4a5c-90ad-2bbb0a9c9c00" />
+
 
 
 
