@@ -1,15 +1,16 @@
 # Student Marks Prediction Model 🎓
-This project predicts student marks based on study hours using a Linear Regression model. 
+A Machine Learning project developed to predict student marks based on study hours using Linear Regression.
 
 ## 📊 Model Visualization
 ![Student Marks Prediction Plot](image_92abba.png)
-*The plot shows the linear relationship between hours studied and marks obtained.*
+*The plot illustrates a strong positive linear correlation between study hours and academic performance.*
 
 ## 🛠️ Model Methodology
-- **Algorithm:** Linear Regression (Scikit-learn).
-- **Data Split:** 80% Training, 20% Testing for model validation.
-- **Metrics:** High R² score indicating strong predictive accuracy.
+- **Algorithm:** Linear Regression (Ordinary Least Squares).
+- **Dataset:** 15 samples of Hours vs. Marks.
+- **Split:** 80% Training, 20% Testing.
+- **Evaluation:** High R² score indicating excellent predictive accuracy.
 
-## 🚀 Usage
-Enter the study hours in the interactive prompt to get a prediction.
-- **Example:** 5.0 Hours → **54.42 Marks**
+## 🚀 Sample Output
+- **Input:** 5.0 Hours
+- **Predicted Marks:** 54.42
